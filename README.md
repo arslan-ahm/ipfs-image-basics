@@ -24,5 +24,5 @@ After that follow, following steps to start app properly.
 * **Run the App**
 
   ```
-  bun run dev  // OR npm install
+  bun run dev  // OR npm run dev
   ```
